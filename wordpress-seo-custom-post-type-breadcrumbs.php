@@ -80,6 +80,3 @@ require __DIR__ . '/includes/options.php';
 require __DIR__ . '/includes/functions.php';
 require __DIR__ . '/includes/fixer.php';
 require __DIR__ . '/includes/admin.php';
-
-//TODO:
-//      documentation
